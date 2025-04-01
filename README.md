@@ -42,7 +42,7 @@ I'm a developer, economist, and tech enthusiast who loves creating and learning 
 
 - [LinkedIn](https://www.linkedin.com/in/manuel-davila-2933352b2)
 
-- [Email]((mailto:manueldavilafor@gmail.com))
+- [Email](mailto:manueldavilafor@gmail.com)
 
 
 
