@@ -41,6 +41,6 @@ Seguir creciendo profesionalmente en programación y desarrollo de software.
 
 # - 📫 Contacto
 
-LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/manuel-davila-2933352b2)
 
-Correo electrónico
+- [Email](mailto:manueldavilafor@gmail.com)
