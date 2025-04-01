@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @manues017
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Leer en Español](README_ES.md)
 
-
-#👋 Hi, I'm Manuel!
+# 👋 Hi, I'm Manuel!
 
 I'm a developer, economist, and tech enthusiast who loves creating and learning new things.
 
@@ -31,19 +24,19 @@ I'm a developer, economist, and tech enthusiast who loves creating and learning 
 
 # ⚙️ Technologies and Tools
 
-Programming Languages: Python, HTML-CSS
+- Programming Languages: Python, HTML-CSS
 
-Tools: Git, GitHub, Docker
+- Tools: Git, GitHub, Docker
 
-Development Interests: Web development, video games, data analysis
+- Development Interests: Web development, video games, data analysis
 
 # 🌱 I’m currently learning
 
-C++
+- C++
 
 # 🎯 Goals
 
-Continue growing professionally in software development and programming.
+- Continue growing professionally in software development and programming.
 
 # 📫 Contact
 
