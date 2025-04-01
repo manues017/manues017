@@ -40,9 +40,9 @@ I'm a developer, economist, and tech enthusiast who loves creating and learning 
 
 # 📫 Contact
 
-LinkedIn
+- [LinkedIn](www.linkedin.com/in/manuel-davila-2933352b2)
 
-Email
+- [Email]((mailto:manueldavilafor@gmail.com))
 
 
 
