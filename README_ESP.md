@@ -1,10 +1,10 @@
 - [Read in English](README.md)
 
-# -👋 Hola, soy Manuel!
+# 👋 Hola, soy Manuel!
 
 Soy desarrollador, economista y entusiasta de la tecnología, me encanta crear y aprender cosas nuevas.
 
-# - 💻 Sobre mí
+# 💻 Sobre mí
 
 🐍 Poseo un diploma en desarrollo Python.
 
@@ -14,7 +14,7 @@ Soy desarrollador, economista y entusiasta de la tecnología, me encanta crear y
 
 🚀 Me encanta programar, desarrollar proyectos innovadores y enfrentar desafíos técnicos.
 
-# -🌲 Intereses y hobbies
+# 🌲 Intereses y hobbies
 
 🏔️ Me apasiona el deporte, especialmente las rutas de montaña y actividades al aire libre.
 
@@ -22,24 +22,24 @@ Soy desarrollador, economista y entusiasta de la tecnología, me encanta crear y
 
 📚 Disfruto mucho viajando, me encanta conocer nuevas culturas, comidas y maneras de ver la vida.
 
-# - ⚙️ Tecnologías y herramientas
+# ⚙️ Tecnologías y herramientas
 
-Lenguajes de Programación: Python, HTML-CSS
+- Lenguajes de Programación: Python, HTML-CSS
 
-Herramientas: Git, GitHub, Docker
+- Herramientas: Git, GitHub, Docker
 
-Intereses en desarrollo: Web, videojuegos, análisis de datos
+- Intereses en desarrollo: Web, videojuegos, análisis de datos
 
-# - 🌱 I’m currently learning 
+# 🌱 I’m currently learning 
 
-C++
+-C++
 
-# - 🎯 Objetivos
+# 🎯 Objetivos
 
 Seguir creciendo profesionalmente en programación y desarrollo de software.
 
 
-# - 📫 Contacto
+# 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/manuel-davila-2933352b2)
 
